@@ -11,9 +11,10 @@ First things first, we're going to need to get your computer set up with a few n
 
 2b.) **Fun** An optional cool thing for you advanced folks [can be found here](https://gist.github.com/artero/1236170)
 
-3.) **And off we go...!** 
+3.) **And off we go...!**  Mac users: Open Terminal! (Don't know where it is? Hit COMMAND + SPACE, type "Terminal", and hit ENTER) Once you're there, follow the instructions below for **pulling** the files from this repository onto your computer. Once you're there, open up the HTML/CSS PDF and follow the instructions! 
 
->Mac users: Open Terminal! (Don't know where it is? Hit COMMAND + SPACE, type >"Terminal", and hit ENTER)
 
->Windows users: Jacqueline will help you :<)
+>Windows users: You've got to install GitBash for this to work. Unless you're on Windows 10 (? rite..) in which case you might/probably have a bash shell.. (TLDR; Jacqueline help)
+
+
 
