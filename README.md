@@ -4,3 +4,9 @@ Hey there! Welcome to the RCSA Web Development Committee! We're super excited to
 As a WebDev member, you'll be doing a lot of coding, editing, and content mainupulation on our site (http://RCSA.berkeley.edu). In order to get you up to speed on how everything works, we've made this tutorial for you so you can learn at your own pace and have us answer questions as needed. This saves us time and hopefully makes you feel less rushed and confused. 
 
 First things first, we're going to need to get your computer set up with a few new programs and packages. Follow the instructions on this README before init'ing the repo or messing with the files. Even if you've used git before or have programming experience, we'd really appreciate it if you could read through the instructions here. It'll prevent headaches in the future if everyone starts out on the same page :)
+
+1.) **Make a github account!** (Can you get to this page without having one..? Who knows.) Make sure you know your github username and password. You'll be typing a lot of both during this tutorial, and it'll go a lot faster if you don't have to keep sending yourself password resets. If you don't remember your password, but already have a github account, now might be a good time to reset it and commit it to memory. 
+
+2.) **Download Sublime** We're going to be doing a lot of file editing and coding! If you've got a text editor you like, you're free to use that, but we recommend using Sublime if you're not already attached to anything else. Sublime also has some cool features (autofill HTML tags, suggesting, command-line autolaunch, etc.) that other editors don't. Find it [here](https://www.sublimetext.com/3); you can download either the beta (3) or a previous version if you're more comfortable with that. 
+
+2b.) An optional cool thing for you advanced folks [can be found here](https://gist.github.com/artero/1236170)
