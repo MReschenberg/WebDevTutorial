@@ -14,6 +14,7 @@ First things first, we're going to need to get your computer set up with a few n
 3.) **And off we go...!** 
 	
 	Mac users: Open Terminal! (Don't know where it is? Hit COMMAND + SPACE, type "Terminal", and hit ENTER)
+	
 
 	Windows users: Jacqueline will help you :<)
 
