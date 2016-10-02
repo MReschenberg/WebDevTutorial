@@ -1,0 +1,35 @@
+/* <link rel="stylesheet" href="example.css"> */
+/* this goes in the HEAD tags of your HTML file */
+
+
+body {
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Century Gothic', sans-serif;
+	color: orange;
+}
+.cupcakes {
+	color: red;
+}
+
+.youtry {
+	
+}
+
+h2 {
+	font-family: 'Century Gothic', sans-serif;
+	font-size: 20px;
+}
+
+h3 {
+	font-family: 'Century Gothic';
+}
+p {
+	font-weight: bold;
+	font-size: 12px;
+	font-family: 'Times New Roman';
+	color: red;
+}
+
