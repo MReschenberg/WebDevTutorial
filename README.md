@@ -17,11 +17,17 @@ First things first, we're going to need to get your computer set up with a few n
 >Windows users: You've got to install GitBash for this to work. Unless you're on Windows 10 (? rite..) in which case you might/probably have a bash shell.. (TLDR; Jacqueline help)
 
 mkdir WebDev
+
 cd WebDev
+
 git clone https://github.com/MReschenberg/WebDevTutorial.git
+
 cd WebDevTutorial
 
+
 You should now have all the repo files (Including this README) and can get going on reviewing material! Lets look at the HTML/CSS Powerpoints first! 
+
+Need some help with git? Check out [this really nice guide](http://datastructur.es/sp16/materials/guides/using-git.html) and feel free to ask Jacqueline or myself if you have any questions!
 
 
 
